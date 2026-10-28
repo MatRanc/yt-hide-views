@@ -16,4 +16,4 @@ A single CSS rule, using `:has()`, hides the metadata row that contains the "•
 
 ## License
 
-[MIT](LICENSE)
+[GNU Affero General Public License v3.0](LICENSE)
